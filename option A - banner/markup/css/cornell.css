@@ -1,0 +1,64 @@
+.cornell-brand {
+	background: #b31b1b;
+	padding: 5px 0;
+}
+.cornell-nav a {
+	float: right;
+	color: white;
+	display: inline-block;
+	margin-top: .2em;
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+.cul-brand {
+	font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+	color: white;
+	font-size: 12px;
+	text-transform: uppercase;
+	padding-top: .9em;
+	display: block;
+	padding-left: 3.75em;
+}
+.cul-brand:hover,
+.cul-brand:active,
+.cul-brand:focus,
+.cornell-nav a:hover,
+.cornell-nav a:active,
+.cornell-nav a:focus {
+	text-decoration: none;
+	color: white;
+}
+.cu-insignia embed {
+	height: 40px;
+	width: auto;
+	float: left;
+}
+.ask-button {
+	display: block;
+	background: #871818;
+	padding: 7px 13px;
+	font-size: 14px;
+}
+.cornell-logo {
+	padding-left: 10px;
+}
+
+/* MEDIA QUERIES
+ ------------------------- */
+
+/* Small devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+	.cornell-brand {
+		padding: 10px 0;
+	}
+	.cul-brand {
+		font-size: 18px;
+		padding-top: .4em;
+		padding-left: 2.5em;
+	}
+	.cornell-nav a {
+		margin-top: .6em;
+	}
+	.cornell-logo {
+		padding-left: 15px;
+	}
+}

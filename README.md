@@ -2,6 +2,18 @@
 
 This repository contains Cornell University Library branding files for use on electronic resources.
 
-The "final" folder contains graphics that have been resized for use. These may be linked to directly from electronic resources.
+**cornell-resources.pdf** contains mockups of branding options A (banner) and B (logo only).
 
-The "source" folder contains source files which can be resized as needed.
+## Option A
+
+The **option A - banner** folder contains simple HTML markup for adding the red Cornell bar to a resource. Note that vendors may choose to mark up their resources themselves, in which case they can refer to cornell-eresources.pdf for how the banner should look on both desktop and mobile screens.
+
+## Option B
+
+The **option B - logo** folder contains a Cornell University Library logo for resources that cannot implement Option A (banner).
+
+The *final* folder contains graphics that have been resized for use. These may be linked to directly from electronic resources.
+
+The *source* folder contains source files which can be resized as needed.
+
+Please contact libraryux@cornell.edu with any questions.
