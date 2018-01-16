@@ -6,7 +6,7 @@ This repository contains Cornell University Library branding files for use on el
 
 ## Option A
 
-The **option A - banner** folder contains simple HTML markup for adding the red Cornell bar to a resource. Note that vendors may choose to mark up their resources themselves, in which case they can refer to cornell-eresources.pdf for how the banner should look on both desktop and mobile screens.
+The **option A - banner** folder contains simple HTML markup for adding a red Cornell bar to an electronic resource. Note that vendors may choose to write the HTML and CSS for their resources themselves, in which case they can refer to cornell-eresources.pdf for how the banner should look on both desktop and mobile screens.
 
 ## Option B
 
