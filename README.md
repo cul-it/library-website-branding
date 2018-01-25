@@ -14,6 +14,8 @@ Resources that cannot implement the banner should use a Cornell University Libra
 
 The *final* folder contains graphics that have been resized for use. These may be linked to directly from electronic resources.
 
+We recommend that you use *CUL-logo-reduced-insignia-344x45.png* for instances where the logo must be 45 pixels high or less.
+
 The *source* folder contains source files which can be resized as needed.
 
 Please contact libraryux@cornell.edu with any questions.
