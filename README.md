@@ -1,6 +1,6 @@
 # library-website-branding
 
-This repository contains Cornell University Library (CUL) branding files for use on electronic resources.
+This repository contains Cornell University Library (CUL) logo files for use on electronic resources.
 
 The *final* folder contains graphics that have been resized for use. These may be linked to directly from electronic resources.
 
